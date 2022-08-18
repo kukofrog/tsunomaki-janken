@@ -1,11 +1,5 @@
 body {
-  --background: #fff;
-  --text-primary: #222;
-  --text-secondary: #444;
-}
-
-body[data-theme="dark"] {
-    --background: #222;
-    --text-primary: #fff;
-    --text-secondary: #aaa;
+  --background: #222;
+  --text-primary: #fff;
+  --text-secondary: #aaa;
 }
